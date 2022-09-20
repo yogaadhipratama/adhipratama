@@ -42,4 +42,7 @@ export const TimeLineData = [
   { year: 2019, text: 'Web Developer at Dinas Tenaga Kerja Kabupaten Pasuruan', },
   { year: 2021, text: 'Backe-End Student at Glints Academy batch #11', },
   { year: 2021, text: 'System Analyst at Privy ID', },
+  {
+    year: 2022, text: 'Web Developer at Mika Informatika Indonesia'
+  }
 ];
