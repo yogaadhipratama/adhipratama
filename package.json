@@ -2,13 +2,13 @@
   "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adhipratama.github.io/",
+  "homepage": "https://yogaaaaaaa.github.io/adhipratama",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b master -d out"
   },
   "dependencies": {
     "next": "^12.0.2",
