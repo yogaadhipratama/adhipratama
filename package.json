@@ -5,7 +5,7 @@
   "homepage": "https://adhipratama.github.io/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && next build",
     "start": "next start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"

@@ -10,7 +10,7 @@ const Hero = (props) => (
   <LeftSection>
     <SectionTitle main center>
       Welcome To <br/>
-      My Personal Portofolio
+      My Personal Website
     </SectionTitle>
     <SectionText>
       Hello, My name is Yoga Adhipratama, i am a passionate web developer who have some experience in Back-End and Front-End Programming, i have bachelor degree in Computer Science and this is my portofolio website.

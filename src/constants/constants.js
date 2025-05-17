@@ -44,5 +44,8 @@ export const TimeLineData = [
   { year: 2021, text: 'System Analyst at Privy ID', },
   {
     year: 2022, text: 'Web Developer at Mika Informatika Indonesia'
+  },
+    {
+    year: 2023, text: 'Web Developer at Shafwah Golden Technology'
   }
 ];
